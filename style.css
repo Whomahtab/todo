@@ -18,11 +18,11 @@ body {
 }
 
 .todo-lists i:hover {
-  color: #f44336d1;
+  color: #f44336d2;
 }
 
 i.fas.fa-plus {
-  color: #f3f2f2;
+  color: #f3f2f3;
 }
 
 li.list-group-item {
@@ -95,7 +95,7 @@ button.input-group-addon.btn-custom {
 }
 
 
-/*======haserrror=====*/
+/*======has error=====*/
 
 @keyframes shake {
   from,
